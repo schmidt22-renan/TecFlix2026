@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    color: rgb(247, 244, 241);
+    color: rgb(141, 141, 140);
     font-family: "Isometra", serif;
     margin: 10px;
 }
@@ -14,7 +14,7 @@ header{
 }
 
 section{
-    background-color: bisque ;
+    background-color: rgb(129, 129, 129) ;
     padding-top: 50px;
     display: flex;
     justify-content: center;
